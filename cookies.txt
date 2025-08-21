@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.priglasi-krasivo.online	TRUE	/	FALSE	1999999999	__ddg8_	n3bufAtlcnMj9o1v
+.priglasi-krasivo.online	TRUE	/	FALSE	1999999999	__ddg10_	1755758827
+.priglasi-krasivo.online	TRUE	/	FALSE	1999999999	__ddg9_	203.205.59.251
+.priglasi-krasivo.online	TRUE	/	FALSE	1999999999	__ddg1_	VCeMnWlVzjEYCrkjnMaW
+
